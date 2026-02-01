@@ -1,0 +1,14 @@
+{
+  "name": "student-record-api",
+  "version": "1.0.0",
+  "description": "Student Record Management API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Vibhanshu Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
